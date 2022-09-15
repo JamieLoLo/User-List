@@ -1,0 +1,25 @@
+.carousel-item {
+  height: 500px;
+}
+.carousel-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card {
+  margin: 1.3rem;
+}
+
+.card-img-top {
+  border-radius: 50%;
+  padding: 1.5rem;
+}
+
+.card-button {
+  text-align: center;
+  margin: 0.75rem;
+}
+.page-link {
+  color: #333;
+}
